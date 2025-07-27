@@ -18,7 +18,7 @@
 - 🛠️ System Architect by day, Server Whisperer by night  
 - 🧩 Break it → Fix it → Automate it  
 - 💥 Laravel · Docker · Server Hardening · APIs · Terminal Kungfu  
-- 🤖 ChatGPT my copilot, but I still write docs (sometimes)  
+- 🤖 ChatGPT my copilot (sometimes writes better code than me)  
 - 📦 Building: ERP Dagang · Code Parfum · Telegram Bot CMS  
 - 🎯 Mission: Empower 1,000+ businesses to scale through automation
 
@@ -31,7 +31,7 @@ Languages:     PHP · JavaScript · Bash
 Frameworks:    Laravel · Vue.js · WordPress · Bootstrap
 Tools:         Docker · Git · Cron · OpenLiteSpeed · MySQL
 Automation:    n8n · Telegram Bot · Shell scripts · Custom API workflows
-Mindset:       CLI > GUI
+Mindset:       CLI > GUI (always)
 
 ### 🎮 One More Thing...
 
@@ -39,13 +39,9 @@ Mindset:       CLI > GUI
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="Pac-Man Dev Mode" width="250px" />
   <br>
   <em>“Life is like Pac-Man — just when you think you’ve cleared the level, the ghosts of bugs return.”</em>
-</div>
+  <br><br>
 
----
-
-### 🔗 Connect with Me
-
-<div align="center">
+  <!-- 🔗 Connect with Me -->
   <a href="https://linkedin.com/in/agamgusriyandi" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
