@@ -32,14 +32,13 @@ Hiding in plain sight — but running the show
 🌐 Building connected empires...
 🛠️ Tools enabled: Website Builder, LMS, ERP, AI CRM, Affiliate Engine
 
+
+```
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agamgusriyandi/agamgusriyandi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agamgusriyandi/agamgusriyandi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agamgusriyandi/agamgusriyandi/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
 
 
 
