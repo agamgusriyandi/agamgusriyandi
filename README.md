@@ -32,3 +32,15 @@ Frameworks:    Laravel · Vue.js · WordPress · Bootstrap
 Tools:         Docker · Git · Cron · OpenLiteSpeed · MySQL
 Automation:    n8n · Telegram Bot · Shell scripts · Custom API workflows
 Other Stuff:   CLI > GUI (Fight me 🤺)
+
+🎮 One More Thing...
+<p align="center"> <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="Pac-Man Dev Mode" width="250px" /> </p>
+“Life is like Pac-Man — just when you think you’ve cleared the level, the ghosts of bugs return.”****
+
+🔗 Connect with Me
+<p align="center"> <a href="https://linkedin.com/in/agamgusriyandi" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://instagram.com/aplikasidagang" target="_blank"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:agam@aplikasidagang.co.id"> <img alt="Email" src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail" /> </a> <a href="https://aplikasidagang.co.id" target="_blank"> <img alt="Website" src="https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=firefox-browser" /> </a> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=agamgusriyandi&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamgusriyandi&layout=compact&theme=tokyonight&hide_border=true" width="48%"/> </p>
+> systemctl restart ideas.service
+> Agam_Gusriyandi --debug --no-sleep --version stable
+> "Hello, World! You're in good hands."
