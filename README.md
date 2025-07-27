@@ -1,57 +1,51 @@
-<!-- 🖼️ Banner -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/agamgusriyandi/agamgusriyandi/main/assets/github-banner-agam.png" alt="Agam Gusriyandi Banner" width="100%">
-</div>
+<h1 align="center">Hi there, I'm Agam 👋</h1>
 
-<h1 align="center">Hey, I'm Agam Gusriyandi 👨‍💻</h1>
-<h3 align="center">System Analyst · Software Engineer · Digital Business Alchemist ✨</h3>
-
-<div align="center">
-  I turn ☕ into <code>&lt;code /&gt;</code> and digital chaos into beautiful systems.<br>
-  CTO @ <a href="https://aplikasidagang.co.id" target="_blank"><b>AplikasiDagang.co.id</b></a> · Based in 🌆 Bandung, Indonesia
-</div>
+<p align="center">
+  <b>System Analyst | Software Engineer | Business Developer</b><br>
+  Passionate about automation, scalable systems, and helping businesses grow digitally.
+</p>
 
 ---
 
-### 🧠 Developer Stats: Level 99 Problem Solver
+### 👨‍💻 About Me
 
-- 🛠️ System Architect by day, Server Whisperer by night  
-- 🧩 Break it → Fix it → Automate it  
-- 💥 Laravel · Docker · Server Hardening · APIs · Terminal Kungfu  
-- 🤖 ChatGPT my copilot (sometimes writes better code than me)  
-- 📦 Building: ERP Dagang · Code Parfum · Telegram Bot CMS  
-- 🎯 Mission: Empower 1,000+ businesses to scale through automation
+- 🎓 Sarjana Teknik Informatika
+- 🏢 Founder & CTO at [Aplikasi Dagang Teknologi](https://aplikasidagang.com)
+- 🚀 Focused on building tools & platforms for UMKM & digital business growth
+- 🌱 Currently exploring **AI**, **DevOps**, and **Laravel Ecosystem**
+- 💬 Ask me about `system design`, `PHP`, `MySQL`, `server deployment`, `WordPress`, `SEO`, or `digital transformation`
 
 ---
 
-### 💼 My Stack Loadout
+### 🛠 Tech Stack
 
-```yaml
-Languages:     PHP · JavaScript · Bash
-Frameworks:    Laravel · Vue.js · WordPress · Bootstrap
-Tools:         Docker · Git · Cron · OpenLiteSpeed · MySQL
-Automation:    n8n · Telegram Bot · Shell scripts · Custom API workflows
-Mindset:       CLI > GUI (always)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-### 🎮 One More Thing...
+---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="Pac-Man Dev Mode" width="250px" />
-  <br>
-  <em>“Life is like Pac-Man — just when you think you’ve cleared the level, the ghosts of bugs return.”</em>
-  <br><br>
+### 📊 GitHub Stats
 
-  <!-- 🔗 Connect with Me -->
-  <a href="https://linkedin.com/in/agamgusriyandi" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://instagram.com/aplikasidagang" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:agam@aplikasidagang.co.id">
-    <img alt="Email" src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://aplikasidagang.co.id" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=firefox-browser" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agamgusriyandi&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamgusriyandi&layout=compact&theme=tokyonight" height="165">
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 Website: [aplikasidagang.com](https://aplikasidagang.com)
+- 📩 Email: agam@aplikasidagang.com
+- 💼 LinkedIn: [linkedin.com/in/agamgusriyandi](https://linkedin.com/in/agamgusriyandi)
+- 🧠 IG Edu: [@aplikasidagang](https://instagram.com/aplikasidagang)
+
+---
+
+> *“Helping people grow their business through system, automation, and education.”* – Agam Gusriyandi
