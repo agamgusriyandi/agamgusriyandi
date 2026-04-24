@@ -20,23 +20,36 @@ agam@system:~$ ./agam.sh --whoami
 ```bash
 agam@system:~$ cat /etc/tech-stack.conf
 
+[PROGRAMMING LANGUAGES]
+  ✦ JavaScript (ES6+) →  Core scripting language
+  ✦ PHP 8.x           →  Legacy & WordPress systems
+  ✦ Python 3.x        →  Automation, bots, AI scripting
+  ✦ Go (Golang)       →  High-performance backend services
+
 [FRONTEND]
   ✦ React.js          →  Component-based UI architecture
   ✦ Vite              →  Ultra-fast build tooling
   ✦ TailwindCSS       →  Utility-first styling
-  ✦ JavaScript (ES6+) →  Core scripting language
   ✦ HTML5 / CSS3      →  Semantic structure & layout
 
 [BACKEND]
   ✦ Node.js           →  Event-driven server runtime
   ✦ Express.js        →  RESTful API framework
-  ✦ PHP 8.x           →  Legacy & WordPress systems
-  ✦ Python 3.x        →  Automation, bots, AI scripting
+  ✦ Go (Gin/Fiber)    →  High-throughput microservices
 
 [DATABASE & CLOUD]
   ✦ MySQL / MariaDB   →  Primary relational database
+  ✦ PostgreSQL        →  Advanced relational & analytics DB
   ✦ Redis             →  Caching & session store
   ✦ Cloudflare        →  CDN, Stream, DNS, DDoS protection
+
+[PAYMENT GATEWAY]
+  ✦ Midtrans          →  IDR payments, QRIS, VA, e-wallet
+  ✦ Xendit            →  Multi-channel payment processing
+  ✦ Tripay            →  Local payment aggregator
+  ✦ Stripe            →  International credit card processing
+  ✦ PayPal            →  Global payment & checkout
+  ✦ Doku              →  Indonesia payment gateway
 
 [DEVOPS & INFRA]
   ✦ Linux (Ubuntu)    →  Production server OS
@@ -49,20 +62,47 @@ agam@system:~$ cat /etc/tech-stack.conf
 ```bash
 agam@system:~$ ls -la ~/projects/
 
-drwxr-xr-x  AplikasiDagang/   [ERP · LMS · AI CRM · Affiliate Engine]
+drwxr-xr-x  AplikasiDagang/     [ERP · LMS · AI CRM · Affiliate Engine]
              ⤷ Full-stack platform powering UMKM digital transformation
 
-drwxr-xr-x  Meyplay/          [Video Streaming · Referral · Monetization]
+drwxr-xr-x  Meyplay/            [Video Streaming · Referral · Monetization]
              ⤷ Enterprise video platform with ad management & commission system
 
-drwxr-xr-x  CodeParfum/       [AI · Fragrance · Personalization]
+drwxr-xr-x  CodeParfum/         [AI · Fragrance · Personalization]
              ⤷ AI-driven personalized perfume formulation system
 
-drwxr-xr-x  DomainDagang/     [Node.js · React · MySQL]
+drwxr-xr-x  DomainDagang/       [Node.js · React · MySQL · Payment]
              ⤷ Domain marketplace & management platform
 
-drwxr-xr-x  [CLASSIFIED]/     [██████████████████]
-             ⤷ Access denied. Security clearance required.
+drwxr-xr-x  ZenithIndonesia/    [Web · Branding · CMS]
+             ⤷ Corporate website for Zenith Indonesia
+
+drwxr-xr-x  KeretaApi/          [Logistics · Tracking · Dashboard]
+             ⤷ Transportation & logistics management system
+
+drwxr-xr-x  ITBPress/           [Publishing · CMS · E-commerce]
+             ⤷ Digital publishing platform for ITB Press
+
+drwxr-xr-x  HaraldBarbershop/   [Booking · POS · Management]
+             ⤷ Barbershop booking & point-of-sale system
+
+drwxr-xr-x  Logitrans/          [Logistics · Fleet · Route]
+             ⤷ Express logistics & fleet management system
+
+drwxr-xr-x  KlasindoGroup/      [Corporate · Multi-branch]
+             ⤷ Enterprise web presence for Klasindo Group
+
+drwxr-xr-x  HerbaLab/           [E-commerce · Health · Payment]
+             ⤷ Health product e-commerce with payment gateway
+
+drwxr-xr-x  RadioDM/            [Streaming · CMS · Broadcasting]
+             ⤷ Online radio streaming & content platform
+
+drwxr-xr-x  [+35 more clients]/ [██████████████████████████████]
+             ⤷ Zenith · Delisa Express · Arcana · MT Global · Tobasa
+             ⤷ Jasco · Mitsu · Sinergi · Sun Karya · Harfa · Alodudi
+             ⤷ Samudera Barokah · PT Nuansa · Indo Kretek · Gamlok...
+             ⤷ Total: 40+ clients served across Indonesia 🇮🇩
 ```
 
 ```bash
@@ -113,7 +153,7 @@ agam@system:~$ tail -f /var/log/universe.log
   🧠 Compiling visions...
   ☠️  Deploying secret systems...
   🌐 Building connected empires...
-  🛠️  Tools enabled: Website Builder · LMS · ERP · AI CRM · Affiliate Engine
+  🛠️  Tools: Website Builder · LMS · ERP · AI CRM · Affiliate Engine · Payment Gateway
 
 agam@system:~$ echo "Behind every digital empire, there's always someone who doesn't show up on stage."
   "Behind every digital empire, there's always someone who doesn't show up on stage."
