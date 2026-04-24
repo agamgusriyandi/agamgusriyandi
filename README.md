@@ -121,16 +121,31 @@ drwxr-xr-x  [700+ projects]/    [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 
 ```bash
 agam@system:~$ htop --user=agamgusriyandi --show=github-stats
+# Fetching live system metrics...
 ```
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=agamgusriyandi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF99&icon_color=00FF99"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamgusriyandi&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF99"/>
+<table style="border:1px solid #00FF99; border-radius:8px; background:#0d1117; padding:12px;">
+<tr><td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=agamgusriyandi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF99&icon_color=00FF99&text_color=c9d1d9"/>
+
+</td><td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamgusriyandi&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF99&text_color=c9d1d9"/>
+
+</td></tr>
+<tr><td colspan="2" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agamgusriyandi&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=c9d1d9&dates=c9d1d9"/>
+
+</td></tr>
+</table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agamgusriyandi&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99"/>
-</div>
+```bash
+# [OK] Stats loaded successfully
+```
 
 ```bash
 agam@system:~$ trophy --scan agamgusriyandi
