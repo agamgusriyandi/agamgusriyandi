@@ -96,7 +96,13 @@ Hiding in plain sight — but running the show
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agamgusriyandi&theme=matrix&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=agamgusriyandi&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agamgusriyandi&theme=github-compact&bg_color=0d1117&color=00FF99&line=00FF99&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
