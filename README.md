@@ -1,6 +1,6 @@
 <!-- Header Animated Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Welcome+to+the+System...;System+Analyst+%7C+Software+Engineer;Digital+Strategist+%7C+DevOps+Architect;Founder+%40+Aplikasi+Dagang+Teknologi;Building+Invisible+Empires+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Welcome+to+the+System...;Analyzing+Digital+Infrastructure...;Code+Parfum+Unit%3A+Online.;ERP+Command%3A+Deployed.;Operator%3A+Agam+Gusriyandi;Role%3A+Architect+Behind+the+Screens" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -11,20 +11,33 @@
 ```bash
 > ./agam.sh --whoami
 
-╔══════════════════════════════════════════════════════╗
-║           AGAM GUSRIYANDI — SYSTEM PROFILE           ║
-╠══════════════════════════════════════════════════════╣
-║  Role   : Software Engineer · System Analyst         ║
-║  Company: Aplikasi Dagang Teknologi                  ║
-║  Focus  : Full Stack · DevOps · AI · ERP             ║
-║  Status : Building digital empires 🌐                ║
-╚══════════════════════════════════════════════════════╝
+System Analyst · Software Engineer · Digital Strategist
+Founder of Aplikasi Dagang Teknologi
+Creator of Code Parfum – Intelligent Fragrance Project
+Crafting invisible infrastructure to empower digital empires
+Hiding in plain sight — but running the show
 
-> systemctl status agam.service
-● agam.service — Active (running) since forever
-  Compiling visions... ████████████ 100%
-  Deploying systems... ████████████ 100%
-  World domination.... ████████░░░░ 72%
+> ./agam.sh --ls-projects
+
+💻 AplikasiDagang
+⤷ Automating businesses, empowering UMKM, deploying web domination
+
+🎬 Meyplay
+⤷ Video streaming platform with referral, monetization & ad management
+
+🧴 CodeParfum
+⤷ Designing personalized perfume via AI-driven formulation
+
+> systemctl restart world-domination.service
+> Agam_Gusriyandi --silent --strategic --no-fail
+> echo "Behind every digital empire, there's always someone who doesn't show up on stage."
+> tail -f /var/log/universe.log
+🕶️  Listening...
+🔐 Encrypting ideas...
+🧠 Compiling visions...
+☠️  Deploying secret systems...
+🌐 Building connected empires...
+🛠️  Tools enabled: Website Builder, LMS, ERP, AI CRM, Affiliate Engine
 ```
 
 </div>
@@ -98,20 +111,6 @@
 
 ---
 
-## 🚀 Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| 🏪 **Aplikasi Dagang** | Platform ERP & e-commerce untuk UMKM | Node.js, React, MySQL |
-| 🎬 **Meyplay** | Platform streaming video dengan sistem referral & monetisasi | React, Vite, Express |
-| 🧴 **Code Parfum** | Formulasi parfum personal via AI | Python, AI/ML |
-
-</div>
-
----
-
 ## 📡 Connect
 
 <div align="center">
@@ -128,5 +127,6 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Behind+every+digital+empire...;There's+always+someone+who+doesn't+show+up+on+stage.;%E2%80%94+Agam+Gusriyandi" />
+  <i>"Behind every digital empire, there's always someone who doesn't show up on stage."</i><br/>
+  <b>— Agam Gusriyandi</b>
 </div>
