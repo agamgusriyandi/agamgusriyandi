@@ -139,10 +139,7 @@ drwxr-xr-x  [700+ projects]/    [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
              ⤷ spanning Enterprise · Education · E-commerce · Logistics · Media
 ```
 
-```bash
-agam@system:~$ htop --user=agamgusriyandi --show=github-stats
-# Fetching live system metrics...
-```
+
 
 <div align="center">
 <table style="border:1px solid #00FF99; border-radius:8px; background:#0d1117; padding:12px;">
