@@ -132,7 +132,7 @@ agam@system:~$ htop --user=agamgusriyandi --show=github-stats
 
 </td><td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamgusriyandi&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF99&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamgusriyandi&layout=donut&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF99&text_color=c9d1d9&hide=html,css&size_weight=0.5&count_weight=0.5"/>
 
 </td></tr>
 <tr><td colspan="2" align="center">
