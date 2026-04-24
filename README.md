@@ -89,6 +89,18 @@ drwxr-xr-x  HaraldBarbershop/   [Booking · POS · Management]
 drwxr-xr-x  Logitrans/          [Logistics · Fleet · Route]
              ⤷ Express logistics & fleet management system
 
+drwxr-xr-x  KAI/                [Enterprise · Logistics · API]
+             ⤷ PT Kereta Api Indonesia — Digital service integration
+
+drwxr-xr-x  ITB/                [Education · Portal · CMS]
+             ⤷ Institut Teknologi Bandung — Academic platform & publishing
+
+drwxr-xr-x  UNPAD/              [Education · Portal · LMS]
+             ⤷ Universitas Padjadjaran — University portal system
+
+drwxr-xr-x  ANTAM/              [Enterprise · Mining · Dashboard]
+             ⤷ PT ANTAM Tbk — Enterprise data dashboard & reporting
+
 drwxr-xr-x  KlasindoGroup/      [Corporate · Multi-branch]
              ⤷ Enterprise web presence for Klasindo Group
 
@@ -98,11 +110,13 @@ drwxr-xr-x  HerbaLab/           [E-commerce · Health · Payment]
 drwxr-xr-x  RadioDM/            [Streaming · CMS · Broadcasting]
              ⤷ Online radio streaming & content platform
 
-drwxr-xr-x  [+35 more clients]/ [██████████████████████████████]
-             ⤷ Zenith · Delisa Express · Arcana · MT Global · Tobasa
-             ⤷ Jasco · Mitsu · Sinergi · Sun Karya · Harfa · Alodudi
-             ⤷ Samudera Barokah · PT Nuansa · Indo Kretek · Gamlok...
-             ⤷ Total: 40+ clients served across Indonesia 🇮🇩
+drwxr-xr-x  [700+ projects]/    [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓]
+             ⤷ Clients: KAI · ITB · UNPAD · ANTAM · Zenith · Delisa Express
+             ⤷          Arcana · MT Global · Tobasa · Jasco · Mitsu · Sinergi
+             ⤷          Sun Karya · Harfa · Alodudi · HerbaLab · RadioDM...
+             ⤷
+             ⤷ 700+ projects delivered across Indonesia 🇮🇩
+             ⤷ spanning Enterprise · Education · E-commerce · Logistics · Media
 ```
 
 ```bash
