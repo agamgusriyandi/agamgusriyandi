@@ -60,6 +60,26 @@ agam@system:~$ cat /etc/tech-stack.conf
 ```
 
 ```bash
+agam@system:~$ cat /etc/contact.conf
+
+[SOCIAL]
+  github    →  https://github.com/agamgusriyandi
+  instagram →  https://www.instagram.com/yabaagam/
+
+agam@system:~$ tail -f /var/log/universe.log
+  🕶️  Listening...
+  🔐 Encrypting ideas...
+  🧠 Compiling visions...
+  ☠️  Deploying secret systems...
+  🌐 Building connected empires...
+  🛠️  Tools: Website Builder · LMS · ERP · AI CRM · Affiliate Engine · Payment Gateway
+
+agam@system:~$ echo "Behind every digital empire, there's always someone who doesn't show up on stage."
+  "Behind every digital empire, there's always someone who doesn't show up on stage."
+                                                              — Agam Gusriyandi
+
+
+```bash
 agam@system:~$ ls -la ~/projects/
 
 drwxr-xr-x  AplikasiDagang/     [ERP · LMS · AI CRM · Affiliate Engine]
@@ -169,24 +189,7 @@ agam@system:~$ git log --graph --all --oneline --since=2016
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agamgusriyandi/agamgusriyandi/output/pacman-contribution-graph.svg">
 </picture>
 
-```bash
-agam@system:~$ cat /etc/contact.conf
 
-[SOCIAL]
-  github    →  https://github.com/agamgusriyandi
-  instagram →  https://www.instagram.com/yabaagam/
-
-agam@system:~$ tail -f /var/log/universe.log
-  🕶️  Listening...
-  🔐 Encrypting ideas...
-  🧠 Compiling visions...
-  ☠️  Deploying secret systems...
-  🌐 Building connected empires...
-  🛠️  Tools: Website Builder · LMS · ERP · AI CRM · Affiliate Engine · Payment Gateway
-
-agam@system:~$ echo "Behind every digital empire, there's always someone who doesn't show up on stage."
-  "Behind every digital empire, there's always someone who doesn't show up on stage."
-                                                              — Agam Gusriyandi
 
 agam@system:~$ █
 ```
