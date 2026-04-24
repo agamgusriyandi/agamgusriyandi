@@ -1,113 +1,98 @@
-<!-- Header Animated Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Welcome+to+the+System...;Analyzing+Digital+Infrastructure...;Code+Parfum+Unit%3A+Online.;ERP+Command%3A+Deployed.;Operator%3A+Agam+Gusriyandi;Role%3A+Architect+Behind+the+Screens" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=700&lines=Initializing+session...;Loading+profile%3A+agamgusriyandi;Authentication%3A+OK;Welcome+back%2C+Agam+Gusriyandi." alt="boot" />
 </div>
 
 <br/>
-
-<!-- About Me Terminal -->
-<div align="center">
 
 ```bash
-> ./agam.sh --whoami
-
-System Analyst · Software Engineer · Digital Strategist
-Founder of Aplikasi Dagang Teknologi
-Creator of Code Parfum – Intelligent Fragrance Project
-Crafting invisible infrastructure to empower digital empires
-Hiding in plain sight — but running the show
-
-> ./agam.sh --ls-projects
-
-💻 AplikasiDagang
-⤷ Automating businesses, empowering UMKM, deploying web domination
-
-🎬 Meyplay
-⤷ Video streaming platform with referral, monetization & ad management
-
-🧴 CodeParfum
-⤷ Designing personalized perfume via AI-driven formulation
-
-> systemctl restart world-domination.service
-> Agam_Gusriyandi --silent --strategic --no-fail
-> echo "Behind every digital empire, there's always someone who doesn't show up on stage."
-> tail -f /var/log/universe.log
-🕶️  Listening...
-🔐 Encrypting ideas...
-🧠 Compiling visions...
-☠️  Deploying secret systems...
-🌐 Building connected empires...
-🛠️  Tools enabled: Website Builder, LMS, ERP, AI CRM, Affiliate Engine
+agam@system:~$ ./agam.sh --whoami
+╔══════════════════════════════════════════════════════════════════╗
+║                    AGAM GUSRIYANDI — v2026.04                   ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Role    : System Analyst · Software Engineer · DevOps          ║
+║  Company : Aplikasi Dagang Teknologi                            ║
+║  Project : Code Parfum — AI-driven Fragrance Platform           ║
+║  Mode    : --silent --strategic --no-fail                       ║
+║  Status  : Hiding in plain sight — but running the show 🕶️      ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
+```bash
+agam@system:~$ cat /etc/tech-stack.conf
 
-<br/>
+[FRONTEND]
+  ✦ React.js          →  Component-based UI architecture
+  ✦ Vite              →  Ultra-fast build tooling
+  ✦ TailwindCSS       →  Utility-first styling
+  ✦ JavaScript (ES6+) →  Core scripting language
+  ✦ HTML5 / CSS3      →  Semantic structure & layout
 
----
+[BACKEND]
+  ✦ Node.js           →  Event-driven server runtime
+  ✦ Express.js        →  RESTful API framework
+  ✦ PHP 8.x           →  Legacy & WordPress systems
+  ✦ Python 3.x        →  Automation, bots, AI scripting
 
-## ⚡ Tech Stack
+[DATABASE & CLOUD]
+  ✦ MySQL / MariaDB   →  Primary relational database
+  ✦ Redis             →  Caching & session store
+  ✦ Cloudflare        →  CDN, Stream, DNS, DDoS protection
 
-<div align="center">
+[DEVOPS & INFRA]
+  ✦ Linux (Ubuntu)    →  Production server OS
+  ✦ Nginx             →  Reverse proxy & web server
+  ✦ Git / GitHub      →  Version control & CI/CD
+  ✦ BaatosPannel      →  Server management panel
+  ✦ Shell / Bash      →  Automation & deployment scripts
+```
 
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+```bash
+agam@system:~$ ls -la ~/projects/
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+drwxr-xr-x  AplikasiDagang/   [ERP · LMS · AI CRM · Affiliate Engine]
+             ⤷ Full-stack platform powering UMKM digital transformation
 
-### 🗄️ Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+drwxr-xr-x  Meyplay/          [Video Streaming · Referral · Monetization]
+             ⤷ Enterprise video platform with ad management & commission system
 
-### 🛠️ DevOps & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+drwxr-xr-x  CodeParfum/       [AI · Fragrance · Personalization]
+             ⤷ AI-driven personalized perfume formulation system
 
-</div>
+drwxr-xr-x  DomainDagang/     [Node.js · React · MySQL]
+             ⤷ Domain marketplace & management platform
 
----
+drwxr-xr-x  [CLASSIFIED]/     [██████████████████]
+             ⤷ Access denied. Security clearance required.
+```
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agamgusriyandi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamgusriyandi&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agamgusriyandi&theme=chartreuse-dark&hide_border=true&background=0d1117" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
+```bash
+agam@system:~$ htop --user=agamgusriyandi --show=github-stats
+```
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agamgusriyandi&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=agamgusriyandi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF99&icon_color=00FF99"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamgusriyandi&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF99"/>
 </div>
-
-## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agamgusriyandi&theme=github-compact&bg_color=0d1117&color=00FF99&line=00FF99&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agamgusriyandi&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99"/>
 </div>
 
----
+```bash
+agam@system:~$ trophy --scan agamgusriyandi
+```
 
-## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=agamgusriyandi&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+</div>
+
+```bash
+agam@system:~$ git log --graph --all --oneline --since=2016
+```
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agamgusriyandi&theme=github-compact&bg_color=0d1117&color=00FF99&line=00FF99&point=ffffff&area=true&hide_border=true"/>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agamgusriyandi/agamgusriyandi/output/pacman-contribution-graph-dark.svg">
@@ -115,24 +100,28 @@ Hiding in plain sight — but running the show
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agamgusriyandi/agamgusriyandi/output/pacman-contribution-graph.svg">
 </picture>
 
----
+```bash
+agam@system:~$ cat /etc/contact.conf
 
-## 📡 Connect
+[SOCIAL]
+  github    →  https://github.com/agamgusriyandi
+  instagram →  https://www.instagram.com/yabaagam/
+
+agam@system:~$ tail -f /var/log/universe.log
+  🕶️  Listening...
+  🔐 Encrypting ideas...
+  🧠 Compiling visions...
+  ☠️  Deploying secret systems...
+  🌐 Building connected empires...
+  🛠️  Tools enabled: Website Builder · LMS · ERP · AI CRM · Affiliate Engine
+
+agam@system:~$ echo "Behind every digital empire, there's always someone who doesn't show up on stage."
+  "Behind every digital empire, there's always someone who doesn't show up on stage."
+                                                              — Agam Gusriyandi
+
+agam@system:~$ █
+```
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agamgusriyandi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yabaagam/)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=agamgusriyandi&color=00FF99&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-  <i>"Behind every digital empire, there's always someone who doesn't show up on stage."</i><br/>
-  <b>— Agam Gusriyandi</b>
+  <img src="https://komarev.com/ghpvc/?username=agamgusriyandi&color=00FF99&style=flat-square&label=SESSIONS+ACTIVE"/>
 </div>
