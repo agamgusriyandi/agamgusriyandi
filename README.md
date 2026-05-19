@@ -138,26 +138,6 @@ drwxr-xr-x  [700+ projects]/    [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
              ⤷ spanning Enterprise · Education · E-commerce · Logistics · Media
 ```
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=agamgusriyandi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&border_color=00FF99&border_radius=8&bg_color=0d1117&title_color=00FF99&icon_color=00FF99&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agamgusriyandi&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=false&border_color=00FF99&border_radius=8&bg_color=0d1117&title_color=00FF99&text_color=c9d1d9&hide=html,css&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agamgusriyandi&theme=chartreuse-dark&hide_border=false&border=00FF99&border_radius=8&background=0d1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=c9d1d9&dates=c9d1d9&stroke=00000000" alt="GitHub Streak" />
-</div>
-
-```bash
-# [OK] Stats loaded successfully
-```
-
-```bash
-agam@system:~$ trophy --scan agamgusriyandi
-```
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agamgusriyandi&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</div>
 
 ```bash
 agam@system:~$ git log --graph --all --oneline --since=2016
