@@ -138,10 +138,6 @@ drwxr-xr-x  [700+ projects]/    [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 ```
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agamgusriyandi&theme=github-compact&bg_color=0d1117&color=00FF99&line=00FF99&point=ffffff&area=true&hide_border=true"/>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agamgusriyandi/agamgusriyandi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agamgusriyandi/agamgusriyandi/output/pacman-contribution-graph.svg">
