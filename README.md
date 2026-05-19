@@ -7,13 +7,13 @@
 ```bash
 agam@system:~$ ./agam.sh --whoami
 ╔══════════════════════════════════════════════════════════════════╗
-║                    AGAM GUSRIYANDI — v2026.04                   ║
+║                    AGAM GUSRIYANDI — v2026.04                    ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  Role    : System Analyst · Software Engineer · DevOps          ║
-║  Company : Aplikasi Dagang Teknologi                            ║
-║  Project : Code Parfum — AI-driven Fragrance Platform           ║
-║  Mode    : --silent --strategic --no-fail                       ║
-║  Status  : Hiding in plain sight — but running the show 🕶️      ║
+║  Role    : System Analyst · Software Engineer · DevOps           ║
+║  Company : Aplikasi Dagang Teknologi                             ║
+║  Project : Code Parfum — AI-driven Fragrance Platform            ║
+║  Mode    : --silent --strategic --no-fail                        ║
+║  Status  : Hiding in plain sight — but running the show 🕶️       ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -139,22 +139,12 @@ drwxr-xr-x  [700+ projects]/    [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 ```
 
 <div align="center">
-<table style="border:1px solid #00FF99; border-radius:8px; background:#0d1117; padding:12px;">
-<tr><td align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=agamgusriyandi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF99&icon_color=00FF99&text_color=c9d1d9"/>
-
-</td><td align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agamgusriyandi&layout=donut&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF99&text_color=c9d1d9&hide=html,css&size_weight=0.5&count_weight=0.5"/>
-
-</td></tr>
-<tr><td colspan="2" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=agamgusriyandi&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=c9d1d9&dates=c9d1d9"/>
-
-</td></tr>
-</table>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=agamgusriyandi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&border_color=00FF99&border_radius=8&bg_color=0d1117&title_color=00FF99&icon_color=00FF99&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agamgusriyandi&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=false&border_color=00FF99&border_radius=8&bg_color=0d1117&title_color=00FF99&text_color=c9d1d9&hide=html,css&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agamgusriyandi&theme=chartreuse-dark&hide_border=false&border=00FF99&border_radius=8&background=0d1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=c9d1d9&dates=c9d1d9&stroke=00000000" alt="GitHub Streak" />
 </div>
 
 ```bash
