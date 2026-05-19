@@ -11,7 +11,8 @@ agam@system:~$ ./agam.sh --whoami
 ╠══════════════════════════════════════════════════════════════════╣
 ║  Role    : System Analyst · Software Engineer · DevOps           ║
 ║  Company : Aplikasi Dagang Teknologi                             ║
-║  Project : Code Parfum — AI-driven Fragrance Platform            ║
+║  Info    : Behind every digital empire, there's always           ║
+║            someone who doesn't show up on stage.                 ║
 ║  Mode    : --silent --strategic --no-fail                        ║
 ║  Status  : Hiding in plain sight — but running the show 🕶️       ║
 ╚══════════════════════════════════════════════════════════════════╝
@@ -32,14 +33,10 @@ agam@system:~$ cat /etc/tech-stack.conf
   ✦ TailwindCSS       →  Utility-first styling
   ✦ HTML5 / CSS3      →  Semantic structure & layout
 
-[BACKEND & FRAMEWORK]
-  ✦ Laravel           →  Enterprise PHP architecture
+[BACKEND]
   ✦ Node.js           →  Event-driven server runtime
   ✦ Express.js        →  RESTful API framework
   ✦ Go (Gin/Fiber)    →  High-throughput microservices
-
-[CMS & PUBLISHING]
-  ✦ WordPress         →  Custom theme & plugin development
 
 [DATABASE & CLOUD]
   ✦ MySQL / MariaDB   →  Primary relational database
@@ -78,8 +75,6 @@ agam@system:~$ tail -f /var/log/universe.log
   🌐 Building connected empires...
   🛠️  Tools: Website Builder · LMS · ERP · AI CRM · Affiliate Engine · Payment Gateway
 
-agam@system:~$ echo "Behind every digital empire, there's always someone who doesn't show up on stage."
-                                                              — Agam Gusriyandi
 ```
 
 ```bash
@@ -141,8 +136,6 @@ drwxr-xr-x  [700+ projects]/    [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
              ⤷ 700+ projects delivered across Indonesia 🇮🇩
              ⤷ spanning Enterprise · Education · E-commerce · Logistics · Media
 ```
-
-
 
 
 <div align="center">
