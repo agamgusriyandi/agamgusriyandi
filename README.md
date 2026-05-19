@@ -1,10 +1,3 @@
-[ignoring loop detection]
-
-Ah, mohon maaf! Pada versi sebelumnya kalimat pada perintah `echo` memang masih tercetak dua kali (sebagai perintah dan sebagai *output*), yang membuatnya terlihat berulang.
-
-Saya sudah membuang kalimat duplikatnya agar terlihat lebih rapi dan bersih. Berikut adalah versi finalnya yang bisa langsung Anda *copy*:
-
-````markdown
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=700&lines=Initializing+session...;Loading+profile%3A+agamgusriyandi;Authentication%3A+OK;Welcome+back%2C+Agam+Gusriyandi." alt="boot" />
 </div>
@@ -145,8 +138,6 @@ drwxr-xr-x  [700+ projects]/    [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
              ⤷ spanning Enterprise · Education · E-commerce · Logistics · Media
 ```
 
-
-
 <div align="center">
 <table style="border:1px solid #00FF99; border-radius:8px; background:#0d1117; padding:12px;">
 <tr><td align="center">
@@ -199,4 +190,3 @@ agam@system:~$ █
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=agamgusriyandi&color=00FF99&style=flat-square&label=SESSIONS+ACTIVE"/>
 </div>
-````
