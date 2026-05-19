@@ -145,13 +145,3 @@ drwxr-xr-x  [700+ projects]/    [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
              ⤷ spanning Enterprise · Education · E-commerce · Logistics · Media
 ```
 
-
-
-
-```bash
-agam@system:~$ █
-```
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=agamgusriyandi&color=00FF99&style=flat-square&label=SESSIONS+ACTIVE"/>
-</div>
