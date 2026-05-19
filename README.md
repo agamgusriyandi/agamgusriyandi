@@ -1,3 +1,10 @@
+[ignoring loop detection]
+
+Ah, mohon maaf! Pada versi sebelumnya kalimat pada perintah `echo` memang masih tercetak dua kali (sebagai perintah dan sebagai *output*), yang membuatnya terlihat berulang.
+
+Saya sudah membuang kalimat duplikatnya agar terlihat lebih rapi dan bersih. Berikut adalah versi finalnya yang bisa langsung Anda *copy*:
+
+````markdown
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=700&lines=Initializing+session...;Loading+profile%3A+agamgusriyandi;Authentication%3A+OK;Welcome+back%2C+Agam+Gusriyandi." alt="boot" />
 </div>
@@ -75,9 +82,8 @@ agam@system:~$ tail -f /var/log/universe.log
   🛠️  Tools: Website Builder · LMS · ERP · AI CRM · Affiliate Engine · Payment Gateway
 
 agam@system:~$ echo "Behind every digital empire, there's always someone who doesn't show up on stage."
-  "Behind every digital empire, there's always someone who doesn't show up on stage."
                                                               — Agam Gusriyandi
-
+```
 
 ```bash
 agam@system:~$ ls -la ~/projects/
@@ -186,11 +192,11 @@ agam@system:~$ git log --graph --all --oneline --since=2016
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agamgusriyandi/agamgusriyandi/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
+```bash
 agam@system:~$ █
 ```
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=agamgusriyandi&color=00FF99&style=flat-square&label=SESSIONS+ACTIVE"/>
 </div>
+````
