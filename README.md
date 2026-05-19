@@ -32,10 +32,14 @@ agam@system:~$ cat /etc/tech-stack.conf
   ✦ TailwindCSS       →  Utility-first styling
   ✦ HTML5 / CSS3      →  Semantic structure & layout
 
-[BACKEND]
+[BACKEND & FRAMEWORK]
+  ✦ Laravel           →  Enterprise PHP architecture
   ✦ Node.js           →  Event-driven server runtime
   ✦ Express.js        →  RESTful API framework
   ✦ Go (Gin/Fiber)    →  High-throughput microservices
+
+[CMS & PUBLISHING]
+  ✦ WordPress         →  Custom theme & plugin development
 
 [DATABASE & CLOUD]
   ✦ MySQL / MariaDB   →  Primary relational database
@@ -139,9 +143,7 @@ drwxr-xr-x  [700+ projects]/    [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 ```
 
 
-```bash
-agam@system:~$ git log --graph --all --oneline --since=2016
-```
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=agamgusriyandi&theme=github-compact&bg_color=0d1117&color=00FF99&line=00FF99&point=ffffff&area=true&hide_border=true"/>
