@@ -31,7 +31,7 @@ agam@system:~$ cat /etc/tech-stack.conf
 
 [PROGRAMMING LANGUAGES]
   ✦ JavaScript (ES6+) →  Core scripting language
-  ✦ PHP 8.x           →  Legacy & WordPress systems
+  ✦ PHP 8.x           →  Laravel, WordPress, & Core systems
   ✦ Python 3.x        →  Automation, bots, AI scripting
   ✦ Go (Golang)       →  High-performance backend services
 
@@ -41,10 +41,14 @@ agam@system:~$ cat /etc/tech-stack.conf
   ✦ TailwindCSS       →  Utility-first styling
   ✦ HTML5 / CSS3      →  Semantic structure & layout
 
-[BACKEND]
+[BACKEND & FRAMEWORK]
+  ✦ Laravel           →  Enterprise PHP architecture
   ✦ Node.js           →  Event-driven server runtime
   ✦ Express.js        →  RESTful API framework
   ✦ Go (Gin/Fiber)    →  High-throughput microservices
+
+[CMS & PUBLISHING]
+  ✦ WordPress         →  Custom theme & plugin development
 
 [DATABASE & CLOUD]
   ✦ MySQL / MariaDB   →  Primary relational database
@@ -54,6 +58,7 @@ agam@system:~$ cat /etc/tech-stack.conf
 
 [PAYMENT GATEWAY]
   ✦ Midtrans          →  IDR payments, QRIS, VA, e-wallet
+  ✦ Prismalink        →  Enterprise payment & B2B solutions
   ✦ Xendit            →  Multi-channel payment processing
   ✦ Tripay            →  Local payment aggregator
   ✦ Stripe            →  International credit card processing
