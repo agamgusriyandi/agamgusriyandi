@@ -7,7 +7,7 @@
 ```bash
 agam@system:~$ ./agam.sh --whoami
 ╔══════════════════════════════════════════════════════════════════╗
-║                    AGAM GUSRIYANDI — v2026.04                    ║
+║                    AGAM GUSRIYANDI                               ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  Role    : System Analyst · Software Engineer · DevOps           ║
 ║  Company : Aplikasi Dagang Teknologi                             ║
